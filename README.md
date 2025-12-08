@@ -32,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/fathimashameema/dsa_challenge/tree/master/2974-minimum-number-game) |
+## Hash Table
+|  |
+| ------- |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/fathimashameema/dsa_challenge/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## String
+|  |
+| ------- |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/fathimashameema/dsa_challenge/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Counting
+|  |
+| ------- |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/fathimashameema/dsa_challenge/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
