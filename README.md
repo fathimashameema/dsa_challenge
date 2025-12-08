@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/fathimashameema/dsa_challenge/tree/master/1929-concatenation-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/fathimashameema/dsa_challenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2974-minimum-number-game](https://github.com/fathimashameema/dsa_challenge/tree/master/2974-minimum-number-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/fathimashameema/dsa_challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
@@ -17,8 +18,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/fathimashameema/dsa_challenge/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/fathimashameema/dsa_challenge/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/fathimashameema/dsa_challenge/tree/master/2413-smallest-even-multiple) |
+## Sorting
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/fathimashameema/dsa_challenge/tree/master/2974-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/fathimashameema/dsa_challenge/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
