@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/fathimashameema/dsa_challenge/tree/master/0509-fibonacci-number) |
 | [2413-smallest-even-multiple](https://github.com/fathimashameema/dsa_challenge/tree/master/2413-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/fathimashameema/dsa_challenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/fathimashameema/dsa_challenge/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -51,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/fathimashameema/dsa_challenge/tree/master/0704-binary-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/fathimashameema/dsa_challenge/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/fathimashameema/dsa_challenge/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/fathimashameema/dsa_challenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
