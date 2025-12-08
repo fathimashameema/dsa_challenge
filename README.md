@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/fathimashameema/dsa_challenge/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/fathimashameema/dsa_challenge/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/fathimashameema/dsa_challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/fathimashameema/dsa_challenge/tree/master/1929-concatenation-of-array) |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/fathimashameema/dsa_challenge/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/fathimashameema/dsa_challenge/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
