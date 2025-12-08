@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/fathimashameema/dsa_challenge/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/fathimashameema/dsa_challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/fathimashameema/dsa_challenge/tree/master/1929-concatenation-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/fathimashameema/dsa_challenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/fathimashameema/dsa_challenge/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/fathimashameema/dsa_challenge/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
