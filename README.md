@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/fathimashameema/dsa_challenge/tree/master/0020-valid-parentheses) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/fathimashameema/dsa_challenge/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/fathimashameema/dsa_challenge/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/fathimashameema/dsa_challenge/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/fathimashameema/dsa_challenge/tree/master/0557-reverse-words-in-a-string-iii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/fathimashameema/dsa_challenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
