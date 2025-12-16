@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/fathimashameema/dsa_challenge/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/fathimashameema/dsa_challenge/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/fathimashameema/dsa_challenge/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/fathimashameema/dsa_challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/fathimashameema/dsa_challenge/tree/master/0001-two-sum) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/fathimashameema/dsa_challenge/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
