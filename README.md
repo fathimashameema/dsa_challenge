@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/fathimashameema/dsa_challenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/fathimashameema/dsa_challenge/tree/master/0509-fibonacci-number) |
 | [2413-smallest-even-multiple](https://github.com/fathimashameema/dsa_challenge/tree/master/2413-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/fathimashameema/dsa_challenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/fathimashameema/dsa_challenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/fathimashameema/dsa_challenge/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/fathimashameema/dsa_challenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/fathimashameema/dsa_challenge/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
