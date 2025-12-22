@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/fathimashameema/dsa_challenge/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/fathimashameema/dsa_challenge/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/fathimashameema/dsa_challenge/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/fathimashameema/dsa_challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/fathimashameema/dsa_challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/fathimashameema/dsa_challenge/tree/master/1929-concatenation-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/fathimashameema/dsa_challenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/fathimashameema/dsa_challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/fathimashameema/dsa_challenge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/fathimashameema/dsa_challenge/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/fathimashameema/dsa_challenge/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/fathimashameema/dsa_challenge/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0977-squares-of-a-sorted-array](https://github.com/fathimashameema/dsa_challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/fathimashameema/dsa_challenge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
