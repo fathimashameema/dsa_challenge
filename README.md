@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/fathimashameema/dsa_challenge/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/fathimashameema/dsa_challenge/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/fathimashameema/dsa_challenge/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/fathimashameema/dsa_challenge/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/fathimashameema/dsa_challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/fathimashameema/dsa_challenge/tree/master/1929-concatenation-of-array) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/fathimashameema/dsa_challenge/tree/master/0225-implement-stack-using-queues) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/fathimashameema/dsa_challenge/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
